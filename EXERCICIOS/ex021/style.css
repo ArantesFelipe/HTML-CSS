@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(4, 18, 8);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 0px;
+
+}
+header{
+    background-color: rgba(162, 239, 114, 0.886);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+   
+
+}
+nav{
+    background-color:whitesmoke ;
+ 
+
+
+}
+nav > a{
+    text-decoration: none;
+}
+main{
+    background-color: rgba(162, 239, 114, 0.886);
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+footer{
+    background-color: rgba(38, 40, 37, 0.886);
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+}

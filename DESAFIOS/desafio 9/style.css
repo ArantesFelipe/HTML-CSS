@@ -1,0 +1,30 @@
+
+body{
+    background-color: black;
+    background-image: image();
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+iframe{
+    text-align: center;
+    color: aliceblue;
+
+}
+#copo video{
+    width: 750px;
+    margin:0 auto;
+    display: block
+}           
+
+
+
+
